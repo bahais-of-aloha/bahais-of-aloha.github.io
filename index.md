@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Please join us!
 
-You can use the [editor on GitHub](https://github.com/cyberious/various-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please join us to celebrate the 9th day of Ridvan at [Rood Bridge Park](https://www.google.com/maps/place/Rood+Bridge+Park/@45.4927928,-122.9503761,15z/data=!4m5!3m4!1s0x0:0x5fea6e1d2751c7df!8m2!3d45.4927928!4d-122.9503761)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div>
+     <iframe width="500" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=400&w=500&cp=45.49160909507954~-122.94977945103454&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+     </iframe>
+     <div style="white-space: nowrap; text-align: center; width: 500px; padding: 6px 0;">
+        <a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=45.49160909507954~-122.94977945103454&amp;sty=r&amp;lvl=16&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
+        <a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=45.49160909507954~-122.94977945103454&amp;sty=r&amp;lvl=16&amp;rtp=~pos.45.49160909507954_-122.94977945103454____&amp;FORM=MBEDLD">Get Directions</a>
+    </div>
+</div>
 
-### Markdown
+We will be meeting at Peace Pond at 2PM. Program will include music, storied and crafts. Family friendly and picnic style, ALL are welcome. Bring a healthy picnic basket and something to sit on, i.e. blanket or camping chair.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyberious/various-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What is Ridván?
+Ridván is a twelve-day festival in the Bahá'í Faith, commemorating Bahá'u'lláh's declaration that he was a Manifestation of God. In 2018 it begins at sunset on April 20 and continues until sunset, May 2.
