@@ -4,8 +4,13 @@ Program will include music, storied and crafts.
 
 ### What we have planned
 
-We will be meeting at River House, located to the right once you enter the park, at 2PM. After a short waiting period we will walk to the Pavilion located near the center of the park next to a small pond.
+We will be meeting at River House, located to the right once you enter the park, at 2PM.
+![River House](https://dun6irwnoloqf.cloudfront.net/images/venues/7419/River-House-at-Rood-Bridge-Park-Wedding-Hillsboro-OR-1.1453525403.jpg)
+
+After a short waiting period we will walk to the Pavilion located near the center of the park next to a small pond.
+
 ![Pond](https://www.hillsboro2035.org/wp-content/uploads/2015/11/Trepha-Baron-Pavilion-Rood-Bridge-Park.jpg)
+
 Were we will have stories and tea. Once done we will then walk over to the playground for snacks and fun. Family friendly and picnic style, ALL are welcome. Bring a healthy picnic basket and something to sit on, i.e. blanket or camping chair.
 
 ![Tree Image](https://cyberious.github.io/ridvan/tree.jpg)
