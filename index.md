@@ -11,7 +11,7 @@ Please join us to celebrate the 9th day of Ridvan at [Rood Bridge Park](https://
 
 We will be meeting at Peace Pond at 2PM. Program will include music, storied and crafts. Family friendly and picnic style, ALL are welcome. Bring a healthy picnic basket and something to sit on, i.e. blanket or camping chair.
 
-![Tree Image](https://cyberious.github.com/ridvan/tree.jpg)
+![Tree Image](https://cyberious.github.io/ridvan/tree.jpg)
 
 ### What is Ridván?
 Ridván is a twelve-day festival in the Bahá'í Faith, commemorating Bahá'u'lláh's declaration that he was a Manifestation of God. In 2018 it begins at sunset on April 20 and continues until sunset, May 2.
