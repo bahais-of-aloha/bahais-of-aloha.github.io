@@ -1,15 +1,12 @@
-Please join us to celebrate the 9th day of Ridvan at [Rood Bridge Park](https://www.google.com/maps/place/Rood+Bridge+Park/@45.4927928,-122.9503761,15z/data=!4m5!3m4!1s0x0:0x5fea6e1d2751c7df!8m2!3d45.4927928!4d-122.9503761)
+Please join us to celebrate the 9th day of Ridván at [Rood Bridge Park](https://www.google.com/maps/place/Rood+Bridge+Park/@45.4927928,-122.9503761,15z/data=!4m5!3m4!1s0x0:0x5fea6e1d2751c7df!8m2!3d45.4927928!4d-122.9503761) in Hillsboro.
 
-<div>
-     <iframe width="500" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=400&w=500&cp=45.49160909507954~-122.94977945103454&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
-     </iframe>
-     <div style="white-space: nowrap; text-align: center; width: 500px; padding: 6px 0;">
-        <a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=45.49160909507954~-122.94977945103454&amp;sty=r&amp;lvl=16&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
-        <a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=45.49160909507954~-122.94977945103454&amp;sty=r&amp;lvl=16&amp;rtp=~pos.45.49160909507954_-122.94977945103454____&amp;FORM=MBEDLD">Get Directions</a>
-    </div>
-</div>
+Program will include music, storied and crafts.
 
-We will be meeting at Peace Pond at 2PM. Program will include music, storied and crafts. Family friendly and picnic style, ALL are welcome. Bring a healthy picnic basket and something to sit on, i.e. blanket or camping chair.
+### What we have planned
+
+We will be meeting at River House, located to the right once you enter the park, at 2PM. After a short waiting period we will walk to the Pavilion located near the center of the park next to a small pond.
+![Pond](https://www.hillsboro2035.org/wp-content/uploads/2015/11/Trepha-Baron-Pavilion-Rood-Bridge-Park.jpg)
+Were we will have stories and tea. Once done we will then walk over to the playground for snacks and fun. Family friendly and picnic style, ALL are welcome. Bring a healthy picnic basket and something to sit on, i.e. blanket or camping chair.
 
 ![Tree Image](https://cyberious.github.io/ridvan/tree.jpg)
 
