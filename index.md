@@ -1,5 +1,3 @@
-## Please join us!
-
 Please join us to celebrate the 9th day of Ridvan at [Rood Bridge Park](https://www.google.com/maps/place/Rood+Bridge+Park/@45.4927928,-122.9503761,15z/data=!4m5!3m4!1s0x0:0x5fea6e1d2751c7df!8m2!3d45.4927928!4d-122.9503761)
 
 <div>
