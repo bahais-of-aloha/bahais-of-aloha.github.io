@@ -13,3 +13,5 @@ After a short waiting period we will walk to the Pavilion located near the cente
 ![Pond](https://www.hillsboro2035.org/wp-content/uploads/2015/11/Trepha-Baron-Pavilion-Rood-Bridge-Park.jpg)
 
 The program will include music, stories and refreshments. Family friendly and picnic style, _ALL_ are welcome. Bring a healthy picnic basket and something to sit on, i.e. blanket or camping chair.
+
+For more information contact Tahirih @ (503)778-0077
