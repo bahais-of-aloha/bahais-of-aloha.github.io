@@ -8,7 +8,7 @@ Ridván is a twelve-day festival in the Bahá'í Faith, commemorating Bahá'u'll
 We will be meeting at River House, located to the right once you enter the park, at 2PM.
 ![River House](https://dun6irwnoloqf.cloudfront.net/images/venues/7419/River-House-at-Rood-Bridge-Park-Wedding-Hillsboro-OR-1.1453525403.jpg)
 
-After a short waiting period we will walk to the Pavilion located near the center of the park next to a small pond.
+After a short waiting period we will walk to the Pavilion located near the center of the park next to a small pond. During the walk, children will share some short stories about Bahá'u'lláh's journey to the Ridván garden.
 
 ![Pond](https://www.hillsboro2035.org/wp-content/uploads/2015/11/Trepha-Baron-Pavilion-Rood-Bridge-Park.jpg)
 
